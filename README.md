@@ -1,2 +1,0 @@
-# Optimization
-Created with CodeSandbox
